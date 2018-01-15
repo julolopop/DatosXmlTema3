@@ -1,0 +1,23 @@
+<empresa>
+    <empleado>
+        <nombre>Pepe</nombre>
+        <edad>22</edad>
+        <puesto sueldo="3000">Vicepresidente</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Paco</nombre>
+        <edad>30</edad>
+        <puesto sueldo="5000">Presidente</puesto>
+    </empleado>1
+    <empleado>
+        <nombre>Ana</nombre>
+        <edad>25</edad>
+        <puesto sueldo="1000">Transportador</puesto>
+    </empleado>
+    <empleado>
+        <nombre>Rojelio</nombre>
+        <edad>22</edad>
+        <puesto sueldo="2000">Jefe de Zona</puesto>
+    </empleado>
+
+</empresa>
